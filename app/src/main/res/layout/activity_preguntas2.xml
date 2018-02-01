@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="gonzalez.sebastian.atrue_falsegame.preguntas2">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pr1"/>
+
+    <Button
+        android:id="@+id/botonVerdadero2"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:background="@android:color/transparent"
+        android:text="@string/botonVerdadero"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="330dp" />
+
+    <Button
+        android:id="@+id/botFalso2"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:background="@android:color/transparent"
+        android:text="@string/botFalso"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="379dp" />
+
+</android.support.constraint.ConstraintLayout>

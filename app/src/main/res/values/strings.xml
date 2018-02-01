@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A true-false game</string>
+    <string name="botonIngeso">Inicio</string>
+    <string name="botonSalida">Salir </string>
+    <string name="botonVerdadero">Verdadro</string>
+    <string name="botFalso">Falso</string>
+    <string name="pr1"></string>
+    <string name="pr2"></string>
+    <string name="pr3"></string>
+    <string name="pr14"></string>
+</resources>
